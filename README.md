@@ -11,7 +11,7 @@
 8. Activity. 
 
 
-   * 1.- Se logro compresnder las principales tipos de variables.
+   * 1.- Se logro comprender las principales tipos de variables.
    * 2.- Se pudo comprender y se lleva a cabo la resolución de problemas simplificando el problema y dividirlo en varios problemas mas pequeños
    * 3.- Comprendimos y se pudo enfrentar los diversos problemas que nos podria generar de acuedo con los diferentes equipos
    * 4.- Se pudo verificar las versiones mas estables y su compativilidad con los equipos
